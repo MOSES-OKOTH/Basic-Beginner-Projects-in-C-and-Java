@@ -1,4 +1,5 @@
 #include <stdio.h>
+//This program was written and debugged by Moses Okoth
 
 int main()
 {
