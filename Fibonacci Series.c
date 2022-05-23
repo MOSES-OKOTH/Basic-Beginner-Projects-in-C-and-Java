@@ -17,14 +17,14 @@ do{
 	
 	if(counter==2)
 	{
-		printf("\nThe series = 0, 1");
+		printf("\nYour fibonacci series of %d characters = 0, 1" ,counter);
 		printf("\nEnter 1 to rerun the program: ");
 		scanf("%d",&repeat);
 	}
 	
 	else if(counter>2)
 	{
-		printf("\nThe series = 0, 1");
+		printf("\nYour fibonacci series of %d characters = 0, 1" ,counter);
 		for(i=0; i<counter; i++)
 		{
 		no3 = no1 + no2;
